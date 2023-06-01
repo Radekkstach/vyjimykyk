@@ -1,0 +1,11 @@
+G:\PROgramovani\Opakovani pred testem\Opakovani pred testem\bin\Debug\Opakovani pred testem.exe.config
+G:\PROgramovani\Opakovani pred testem\Opakovani pred testem\bin\Debug\Opakovani pred testem.exe
+G:\PROgramovani\Opakovani pred testem\Opakovani pred testem\bin\Debug\Opakovani pred testem.pdb
+G:\PROgramovani\Opakovani pred testem\Opakovani pred testem\obj\Debug\Opakovani pred testem.csprojAssemblyReference.cache
+G:\PROgramovani\Opakovani pred testem\Opakovani pred testem\obj\Debug\Opakovani_pred_testem.Form1.resources
+G:\PROgramovani\Opakovani pred testem\Opakovani pred testem\obj\Debug\Opakovani_pred_testem.Properties.Resources.resources
+G:\PROgramovani\Opakovani pred testem\Opakovani pred testem\obj\Debug\Opakovani pred testem.csproj.GenerateResource.cache
+G:\PROgramovani\Opakovani pred testem\Opakovani pred testem\obj\Debug\Opakovani pred testem.csproj.CoreCompileInputs.cache
+G:\PROgramovani\Opakovani pred testem\Opakovani pred testem\obj\Debug\Opakovani pred testem.exe
+G:\PROgramovani\Opakovani pred testem\Opakovani pred testem\obj\Debug\Opakovani pred testem.pdb
+G:\PROgramovani\Opakovani pred testem\Opakovani pred testem\obj\Debug\Opakovani_pred_testem.Form2.resources
